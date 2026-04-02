@@ -1,0 +1,51 @@
+category,complexity,distance,experience_years,estimated_price
+AC Repair,1,1.0,5,800
+AC Repair,2,2.0,8,1200
+AC Repair,3,3.0,10,1800
+AC Repair,1,0.5,3,600
+AC Repair,2,1.5,6,1000
+AC Repair,3,4.0,12,2200
+AC Repair,1,2.0,4,750
+AC Repair,2,3.5,7,1400
+AC Repair,3,1.0,15,2000
+AC Repair,1,1.5,2,650
+Plumber,1,1.0,5,500
+Plumber,2,2.0,8,900
+Plumber,3,3.0,10,1500
+Plumber,1,0.5,3,400
+Plumber,2,1.5,6,750
+Plumber,3,4.0,12,1800
+Plumber,1,2.0,4,550
+Plumber,2,3.5,7,1100
+Plumber,3,1.0,15,1600
+Plumber,1,1.5,2,450
+Electrician,1,1.0,5,600
+Electrician,2,2.0,8,1100
+Electrician,3,3.0,10,1700
+Electrician,1,0.5,3,450
+Electrician,2,1.5,6,850
+Electrician,3,4.0,12,2000
+Electrician,1,2.0,4,650
+Electrician,2,3.5,7,1300
+Electrician,3,1.0,15,1800
+Electrician,1,1.5,2,500
+Carpenter,1,1.0,5,700
+Carpenter,2,2.0,8,1300
+Carpenter,3,3.0,10,2000
+Carpenter,1,0.5,3,500
+Carpenter,2,1.5,6,1000
+Carpenter,3,4.0,12,2400
+Carpenter,1,2.0,4,750
+Carpenter,2,3.5,7,1500
+Carpenter,3,1.0,15,2200
+Carpenter,1,1.5,2,600
+Appliance Repair,1,1.0,5,700
+Appliance Repair,2,2.0,8,1200
+Appliance Repair,3,3.0,10,1800
+Appliance Repair,1,0.5,3,500
+Appliance Repair,2,1.5,6,900
+Appliance Repair,3,4.0,12,2100
+Appliance Repair,1,2.0,4,650
+Appliance Repair,2,3.5,7,1400
+Appliance Repair,3,1.0,15,1900
+Appliance Repair,1,1.5,2,550
